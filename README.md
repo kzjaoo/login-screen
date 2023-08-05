@@ -1,2 +1,3 @@
 # login-estilizado
-outro projeto de tela de login, dessa vez deixei as cores um pouco mais agradável e uma aparência de login mais moderno.
+A ideia é fazer uma tela de login bem simples com HTML5 e CSS3 básico.
+Esse foi um projetinho bem simples que eu fiz para reforçar os conceitos básicos de HTML5 e CSS3 onde me desafiei e com certeza a pratica foi valida para o meu conhecimento se aprimorar
